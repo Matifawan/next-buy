@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "700618240526",
+    "project_id": "next-buy-7452f",
+    "storage_bucket": "next-buy-7452f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700618240526:android:3c480f7b29431eff4f025f",
+        "android_client_info": {
+          "package_name": "buynext.com.next_buy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700618240526-mebtardmvv8u8auk2m0legqopi1fo8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHx2KgCPN_kj6M2WEq6NWg5cf2upjlHus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700618240526-mebtardmvv8u8auk2m0legqopi1fo8hq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700618240526-0hklp83lm9ru7a2p7ontgbmt1sa3iil7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "buynext.com.nextBuy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

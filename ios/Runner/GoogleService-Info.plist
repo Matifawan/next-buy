@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyADgH5orJ_Q071AspbtKR4t0ITFr_uwrTI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>700618240526</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>buynext.com.nextBuy</string>
+	<key>PROJECT_ID</key>
+	<string>next-buy-7452f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>next-buy-7452f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:700618240526:ios:1a51914a257f0b834f025f</string>
+</dict>
+</plist>
