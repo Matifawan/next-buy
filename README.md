@@ -2,21 +2,18 @@
 A Flutter e-commerce app with Firebase Authentication and Google Sign-In.
 
 📌 Features
+✅ Beautiful Onboarding Screen
+✅ Custom Logo & Branding
+✅ Play Store & App Icon Added
 ✅ Firebase Authentication (Login/Register)
 ✅ Google Sign-In
 ✅ User Profile Management
-✅ Onboarding Screen
 ✅ Category & Product Selection
 ✅ Add to Cart & Remove Items
 ✅ Add to Favorites & Remove
 ✅ Secure Payment Methods
 ✅ Order Summary & Checkout
 ✅ Secure Sign Out
-🚀 Tech Stack
-Flutter (Dart)
-Firebase Auth
-Google Sign-In
-GetX (State Management)
 
 🚀 Tech Stack
 Flutter (Dart)
